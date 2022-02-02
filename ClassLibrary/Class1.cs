@@ -8,5 +8,5 @@ namespace ClassLibrary
 {
     public class Class1
     {
-    }
-}
+    }//end class
+}//end namespace
